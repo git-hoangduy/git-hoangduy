@@ -6,7 +6,6 @@ I'm Duy, a web developer with over 5 years of experience. Here's a bit about me:
 - 🌱 I’m always learning and exploring new technologies to enhance my development projects.
 - 👯 I’m open to collaborating on web development projects that involve PHP, Python, JavaScript or any related technologies.
 - 🤔 I’m looking for help with optimizing web applications for performance and scalability.
-- 💬 Feel free to ask me about anything related to web development, PHP, Python, or my experiences in the field.
 - 📫 You can reach me via email at [duynguyen.joy@gmail.com](duynguyen.joy@gmail.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm passionate about photography and love capturing moments in nature during my free time.
